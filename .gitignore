@@ -1,0 +1,9 @@
+# to ignore node_modules folder, we don't need to push it on git since we have package.json 
+# and package-lock.json. So, we can regenerate it using those files by simply typing npm i in command line.
+/node_modules
+
+# can be regenerated
+/dist
+
+# can be regenerated
+/.parcel-cache
