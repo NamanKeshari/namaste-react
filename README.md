@@ -1,6 +1,6 @@
-## Namaste React 🚀
+# Namaste React 🚀
 
-# Parcel 🐻
+## Parcel 🐻
 
 - Dev Build
 - Local Server
